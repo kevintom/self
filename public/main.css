@@ -1,0 +1,115 @@
+body {
+    background: white;
+    font-size: 14px;
+    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    line-height: 1.2;
+}
+
+a {
+    outline: 0;
+}
+
+a img {
+    border: 0px; 
+    padding-left: 10px; 
+    padding-right: 10px; 
+    text-decoration: none;
+}
+
+strong, b {
+    font-weight: bold;
+}
+em, i {
+    font-style: italic;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+p.title {
+    font-size: 20px;
+}	
+
+p.time {
+    font-size: 12px;
+    font-weight: normal;
+    color: grey;
+}
+div.entry {
+    width: 750px;
+	border-top: 1px solid #eee;
+	padding: 1.5em 0; 
+}
+
+div.left {
+}
+
+div.right {
+    padding-left: 10px;
+}
+
+div.content {
+	margin-bottom: 2em;
+	overflow: hidden;
+	padding: 20px 20px;
+	width: 760px;
+	clear: both; 
+	margin: 0 auto; 
+	width: 800px;
+}
+
+div.header {
+	margin: 0 auto;
+	padding: 2.5em 0 0 0;
+    display: block;
+    clear: both;
+    margin: 0 auto; 
+    width: 800px;
+}
+
+div.header h1 {font-size: 3.571em; line-height: .6;}
+
+div.header h1 strong {font-size: 0.36em; font-weight: normal;}
+
+p.tweet a {
+    text-decoration: none;
+    color: black;
+}
+
+p.tweet a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+span.big_quote {
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+p.posterous_title a, p.posterous_title a:visited {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p.title a, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+p.blog_title a, p.blog_title a:visited {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p.copyright {
+    font-weight: normal;
+    font-size: 12px;
+    color: grey;
+}
